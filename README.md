@@ -1,3 +1,13 @@
+#### Table of Contents
+- [Tested with](#tested-with)
+- [Environment](#environment)
+- [Install dependencies](#install-dependencies)
+- [Database](#database)
+- [To Run](#to-run)
+	- [CLI mode](#cli-mode)
+	- [REST API](#rest-api)
+	
+
 ### Tested with
 - Python 3.7.2
 - SQLite 3.23.0
